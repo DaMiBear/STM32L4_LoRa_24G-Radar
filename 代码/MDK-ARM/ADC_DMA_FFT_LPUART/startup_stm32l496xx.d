@@ -1,0 +1,1 @@
+adc_dma_fft_lpuart\startup_stm32l496xx.o: startup_stm32l496xx.s

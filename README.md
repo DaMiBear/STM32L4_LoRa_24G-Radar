@@ -1,2 +1,4 @@
 # STM32L4_LoRa_24G-Radar
 STM32L496、RAK的LoRa以及英飞凌的Sense2GoL
+STM32对雷达的IQ信号进行FFT，获得频率和相位，分别对应着速度和运动状态，然后通过AT指令控制LoRa发送出去
+
